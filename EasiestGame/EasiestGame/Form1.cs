@@ -113,7 +113,16 @@ namespace EasiestGame
         private void Form1_Paint(object sender, PaintEventArgs e)
         {
             levels[currentLevel].Draw(e.Graphics);
-            lblDeaths.Text = string.Format("Deaths: {0}", deaths);
+            if (currentLevel > 0)
+            {
+                lblDeaths.Text = string.Format("Deaths: {0}", deaths);
+                lblDeaths.Font = new Font("Castellar", 14);
+                lblDeaths.Left = 45;
+
+                lblLevels.Text = string.Format("Level: {0}", currentLevel);
+                lblLevels.Font = new Font("Castellar", 14);
+                lblLevels.Left = 565;
+            }
         }
 
         private void Form1_KeyPress(object sender, KeyPressEventArgs e)

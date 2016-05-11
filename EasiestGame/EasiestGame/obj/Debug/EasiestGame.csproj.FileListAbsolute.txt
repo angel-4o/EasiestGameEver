@@ -53,9 +53,3 @@ C:\Users\Tipsy\Downloads\EasiestGame (3)\EasiestGame\EasiestGame\obj\Debug\Easie
 C:\Users\Tipsy\Downloads\EasiestGame (3)\EasiestGame\EasiestGame\obj\Debug\EasiestGame.Form1.resources
 C:\Users\Tipsy\Downloads\EasiestGame (3)\EasiestGame\EasiestGame\obj\Debug\EasiestGame.Properties.Resources.resources
 C:\Users\Tipsy\Downloads\EasiestGame (3)\EasiestGame\EasiestGame\obj\Debug\EasiestGame.csproj.GenerateResource.Cache
-C:\Users\Tipsy\Downloads\alles-da\EasiestGame\EasiestGame\bin\Debug\EasiestGame.exe.config
-C:\Users\Tipsy\Downloads\alles-da\EasiestGame\EasiestGame\obj\Debug\Interop.WMPLib.dll
-C:\Users\Tipsy\Downloads\alles-da\EasiestGame\EasiestGame\obj\Debug\AxInterop.WMPLib.dll
-C:\Users\Tipsy\Downloads\alles-da\EasiestGame\EasiestGame\obj\Debug\EasiestGame.csproj.ResolveComReference.cache
-C:\Users\Tipsy\Downloads\alles-da\EasiestGame\EasiestGame\obj\Debug\EasiestGame.exe
-C:\Users\Tipsy\Downloads\alles-da\EasiestGame\EasiestGame\obj\Debug\EasiestGame.pdb
